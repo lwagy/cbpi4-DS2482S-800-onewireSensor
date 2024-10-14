@@ -24,13 +24,13 @@ Ignore Above - Ignore any temperature below  this value. i.e. 120
 
 cbpi Instalation:
 
-pipx runpip cbpi4 install https://github.com/lwagy/cbpi4-MCP23017-Actor.git
+pipx runpip cbpi4 install https://github.com/lwagy/cbpi4-DS2482S-800-1wireSensor.git
 
 or
 
 Clone from github
 
-pipx runpip cbpi4 install ./cbpi4-MCP23017-Actor
+pipx runpip cbpi4 install ./cbpi4-DS2482S-800-1wireSensor
 
 
 
