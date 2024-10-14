@@ -1,0 +1,2 @@
+include cbpi4-DS2482S-800-1wireSensor/config.yaml
+recursive-include cbpi4-DS2482S-800-1wireSensor/static *
