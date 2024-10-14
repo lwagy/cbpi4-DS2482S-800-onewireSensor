@@ -1,6 +1,6 @@
 cbpi4-DS2482S-800-1wireSensor
 
-https://github.com/lwagy/cbpi4-MCP23017-Actor/blob/main/MCP23017%20Actor.png
+https://github.com/lwagy/cbpi4-DS2482S-800-1wireSensor/blob/main/DS2482S-8000%20Sensor.png
 
 CraftBeerPi Sensor Addon
 
