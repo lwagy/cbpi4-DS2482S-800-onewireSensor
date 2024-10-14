@@ -5,7 +5,7 @@ setup(name='cbpi4-DS2482S-800-1wireSensor',
       description='CraftBeerPi Plugin',
       author='Lawrence Wagy',
       author_email='lnwagy@gmail.com',
-      url='https://wagyhof.com',
+      url='https://github.com/lwagy/cbpi4-DS2482S-800-1wireSensor',
       include_package_data=True,
       package_data={
         # If any package contains *.txt or *.rst files, include them:
