@@ -4,6 +4,9 @@ https://github.com/lwagy/cbpi4-DS2482S-800-1wireSensor/blob/main/DS2482S-8000%20
 
 CraftBeerPi Sensor Addon
 
+Hat I am using: 1-Wire plus 12-Bit ADC HAT for Raspberry Pi (https://www.tindie.com/products/cburgess129/1-wire-plus-12-bit-adc-hat-for-raspberry-pi/)
+
+
 DS2482S-800 board using I2c interface.
 
 Each board can manage 8 one wire temperature probes 3.5 or 5vdc
